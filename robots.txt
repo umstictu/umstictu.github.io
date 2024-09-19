@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umstictu.github.io/sitemap.html.gz
+Sitemap: https://umstictu.github.io/app/sitemap.html.gz
+Sitemap: https://umstictu.github.io/assets/sitemap.html.gz
+Sitemap: https://umstictu.github.io/css/sitemap.html.gz
+Sitemap: https://umstictu.github.io/data/sitemap.html.gz
+Sitemap: https://umstictu.github.io/includes/sitemap.html.gz
+Sitemap: https://umstictu.github.io/item/sitemap.html.gz
+Sitemap: https://umstictu.github.io/src/sitemap.html.gz
